@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Timewize.io - Smart Timesheet & Workforce Management</title>
+    <meta name="description" content="Streamline your workforce management with Timewize.io. Advanced timesheet tracking, analytics, leave management, reimbursements, inventory, and skills profiling in one platform." />
+    <meta name="author" content="Timewize.io" />
+    <meta name="keywords" content="timesheet, workforce management, employee tracking, analytics, leave management, reimbursements, inventory management, skills profile" />
+
+    <meta property="og:title" content="Timewize.io - Smart Timesheet & Workforce Management" />
+    <meta property="og:description" content="Streamline your workforce management with advanced timesheet tracking, analytics, and comprehensive employee management tools." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://timewize.io" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Timewize.io - Smart Timesheet & Workforce Management" />
+    <meta name="twitter:description" content="Streamline your workforce management with advanced timesheet tracking, analytics, and comprehensive employee management tools." />
+    
+    <link rel="canonical" href="https://timewize.io" />
+    <script type="module" crossorigin src="/assets/index-CQVGA8io.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-86QjG5uh.css">
+  </head>
+
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
